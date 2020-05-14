@@ -16,4 +16,4 @@ docker run --gpus all \
            --name=sleepy_natu \
            --memory="$target_mem"g \
            nde:latest \
-           /bin/bash
+           /bin/bash startup.sh

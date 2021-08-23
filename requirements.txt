@@ -13,7 +13,7 @@ jupyter-console==5.2.0
 jupyter-core==4.6.1
 protobuf==3.6.1
 ipywidgets==7.4.1
-jupyterlab==2.1.1
+jupyterlab==2.2.10
 jupyterlab-launcher==0.13.1
 nbconvert==5.4.0
 timeout_decorator==0.4.1
